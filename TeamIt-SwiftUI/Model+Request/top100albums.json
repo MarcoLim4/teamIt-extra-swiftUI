@@ -1,0 +1,1644 @@
+{
+  "feed": {
+    "title": "Top Songs",
+    "id": "https://rss.itunes.apple.com/api/v1/us/itunes-music/top-songs/all/100/explicit.json",
+    "author": {
+      "name": "iTunes Store",
+      "uri": "http://wwww.apple.com/us/itunes/"
+    },
+    "links": [
+      {
+        "self": "https://rss.itunes.apple.com/api/v1/us/itunes-music/top-songs/all/100/explicit.json"
+      },
+      {
+        "alternate": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?genreId=34&popId=1&app=itunes"
+      }
+    ],
+    "copyright": "Copyright © 2018 Apple Inc. All rights reserved.",
+    "country": "us",
+    "icon": "http://itunes.apple.com/favicon.ico",
+    "updated": "2021-04-08T02:02:19.000-07:00",
+    "results": [
+      {
+        "artistName": "Taylor Swift",
+        "id": "1552792305",
+        "name": "Mr. Perfectly Fine (Taylor’s Version) (From The Vault)",
+        "collectionName": "Fearless (Taylor's Version)",
+        "kind": "song",
+        "copyright": "℗ 2021 Taylor Swift",
+        "artistId": "159260351",
+        "artistUrl": "https://music.apple.com/us/artist/taylor-swift/159260351?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/e0/d7/50/e0d750e8-b290-a8ff-88fe-8cbed749120c/21UMGIM09915.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/mr-perfectly-fine-taylors-version-from-the-vault/1552791073?i=1552792305&app=itunes"
+      },
+      {
+        "artistName": "Masked Wolf",
+        "id": "1547525311",
+        "releaseDate": "2019-06-07",
+        "name": "Astronaut In The Ocean",
+        "collectionName": "Astronaut In The Ocean - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Elektra Records LLC",
+        "artistId": "1313094981",
+        "artistUrl": "https://music.apple.com/us/artist/masked-wolf/1313094981?app=itunes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/78/3a/b6/783ab65c-7210-6cbe-9316-22564b8177ad/075679793102.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/us/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/astronaut-in-the-ocean/1547525310?i=1547525311&app=itunes"
+      },
+      {
+        "artistName": "Bruno Mars, Anderson .Paak & Silk Sonic",
+        "id": "1556097162",
+        "releaseDate": "2021-03-05",
+        "name": "Leave The Door Open",
+        "collectionName": "Leave The Door Open - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Aftermath Entertainment and Atlantic Recording Corporation",
+        "artistId": "278873078",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=278873078-855484536-1556097160&app=itunes",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/36/8b/5c/368b5c12-725e-e85d-36be-5287461cc0a2/075679788337.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/us/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/leave-the-door-open/1556096966?i=1556097162&app=itunes"
+      },
+      {
+        "artistName": "Lil Nas X",
+        "id": "1556766751",
+        "releaseDate": "2021-03-26",
+        "name": "MONTERO (Call Me By Your Name)",
+        "collectionName": "MONTERO (Call Me By Your Name) - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Columbia Records, a Division of Sony Music Entertainment",
+        "artistId": "1400730578",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/us/artist/lil-nas-x/1400730578?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/24/21/9d/24219d8b-3354-7329-d3d2-f7c186a31881/886449068012.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/montero-call-me-by-your-name/1556766750?i=1556766751&app=itunes"
+      },
+      {
+        "artistName": "Fleetwood Mac",
+        "id": "202272624",
+        "releaseDate": "1987-04-14",
+        "name": "Dreams",
+        "collectionName": "Greatest Hits",
+        "kind": "song",
+        "copyright": "℗ 1988 Warner Records Inc.",
+        "artistId": "158038",
+        "artistUrl": "https://music.apple.com/us/artist/fleetwood-mac/158038?app=itunes",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music/fa/e8/30/mzi.izeorbmm.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "2",
+            "name": "Blues",
+            "url": "https://itunes.apple.com/us/genre/id2"
+          },
+          {
+            "genreId": "1011",
+            "name": "Country Blues",
+            "url": "https://itunes.apple.com/us/genre/id1011"
+          },
+          {
+            "genreId": "1147",
+            "name": "Blues-Rock",
+            "url": "https://itunes.apple.com/us/genre/id1147"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "1133",
+            "name": "Pop/Rock",
+            "url": "https://itunes.apple.com/us/genre/id1133"
+          },
+          {
+            "genreId": "1146",
+            "name": "Arena Rock",
+            "url": "https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId": "1131",
+            "name": "Adult Contemporary",
+            "url": "https://itunes.apple.com/us/genre/id1131"
+          },
+          {
+            "genreId": "1134",
+            "name": "Soft Rock",
+            "url": "https://itunes.apple.com/us/genre/id1134"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/dreams/202271826?i=202272624&app=itunes"
+      },
+      {
+        "artistName": "Justin Bieber",
+        "id": "1556175857",
+        "releaseDate": "2021-03-19",
+        "name": "Peaches (feat. Daniel Caesar & GIVĒON)",
+        "collectionName": "Justice",
+        "kind": "song",
+        "copyright": "℗ 2021 Def Jam Recordings, a division of UMG Recordings, Inc.",
+        "artistId": "320569549",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/us/artist/justin-bieber/320569549?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/f5/7a/9e/f57a9e6a-31c8-0784-dfbd-4a0120bfd4af/21UMGIM17517.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/peaches-feat-daniel-caesar-giv%C4%93on/1556175419?i=1556175857&app=itunes"
+      },
+      {
+        "artistName": "BTS",
+        "id": "1560265511",
+        "releaseDate": "2021-04-02",
+        "name": "Film out",
+        "collectionName": "Film out - Single",
+        "kind": "song",
+        "copyright": "A Virgin Music release; ℗ 2021 UNIVERSAL MUSIC LLC",
+        "artistId": "883131348",
+        "artistUrl": "https://music.apple.com/us/artist/bts/883131348?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/21/53/f4/2153f49b-dcde-6c31-fd0b-9cc669c02969/21UMGIM21733.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "51",
+            "name": "K-Pop",
+            "url": "https://itunes.apple.com/us/genre/id51"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/film-out/1560265259?i=1560265511&app=itunes"
+      },
+      {
+        "artistName": "Saweetie",
+        "id": "1542954266",
+        "releaseDate": "2021-01-08",
+        "name": "Best Friend (feat. Doja Cat)",
+        "collectionName": "Best Friend (feat. Doja Cat) - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 ICY/Warner Records Inc.",
+        "artistId": "1318085504",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/us/artist/saweetie/1318085504?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/f2/92/4f/f2924f43-cc8b-d289-e431-2997f6816eb0/054391927200.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/us/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/best-friend-feat-doja-cat/1542954264?i=1542954266&app=itunes"
+      },
+      {
+        "artistName": "Bryan Adams",
+        "id": "1440813943",
+        "releaseDate": "1984-11-05",
+        "name": "Summer of '69",
+        "collectionName": "Reckless (Remastered)",
+        "kind": "song",
+        "copyright": "℗ 2014 A&M Records",
+        "artistId": "85932",
+        "artistUrl": "https://music.apple.com/us/artist/bryan-adams/85932?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/b9/db/b7/b9dbb71c-69ac-f567-8b69-4d76ed1ae8f6/00602537830688.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/summer-of-69/1440813269?i=1440813943&app=itunes"
+      },
+      {
+        "artistName": "twenty one pilots",
+        "id": "1561837008",
+        "releaseDate": "2021-04-07",
+        "name": "Shy Away",
+        "collectionName": "Scaled And Icy",
+        "kind": "song",
+        "copyright": "℗ 2021 Fueled By Ramen LLC",
+        "artistId": "349736311",
+        "artistUrl": "https://music.apple.com/us/artist/twenty-one-pilots/349736311?app=itunes",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/64/82/1d/64821d19-14b2-7f58-8106-bccb4d04ada3/075679786210.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/shy-away/1561836997?i=1561837008&app=itunes"
+      },
+      {
+        "artistName": "Maroon 5 & Megan Thee Stallion",
+        "id": "1556706159",
+        "releaseDate": "2021-03-03",
+        "name": "Beautiful Mistakes",
+        "collectionName": "Beautiful Mistakes - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Interscope Records (222 Records)",
+        "artistId": "1798556",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=1798556-1258989914&app=itunes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/75/90/6f/75906fda-bc17-2cd0-6cec-33cbbbd0514f/21UMGIM12488.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/beautiful-mistakes/1556706156?i=1556706159&app=itunes"
+      },
+      {
+        "artistName": "Stevie Nicks",
+        "id": "1168959760",
+        "releaseDate": "1981-07-27",
+        "name": "Edge of Seventeen",
+        "collectionName": "Bella Donna (2016 Remaster)",
+        "kind": "song",
+        "copyright": "℗ 1981 Modern Records, Inc. Marketed by Rhino Entertainment Company, a Warner Music Group Company. All Rights Reserved.",
+        "artistId": "147875",
+        "artistUrl": "https://music.apple.com/us/artist/stevie-nicks/147875?app=itunes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/4a/24/6f/4a246f6c-89ca-3015-399e-b7e3aef53faf/603497871001.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/edge-of-seventeen/1168959698?i=1168959760&app=itunes"
+      },
+      {
+        "artistName": "Chris Housman",
+        "id": "1560744270",
+        "releaseDate": "2021-04-07",
+        "name": "Blueneck",
+        "collectionName": "Blueneck - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Chris Housman",
+        "artistId": "1481913681",
+        "artistUrl": "https://music.apple.com/us/artist/chris-housman/1481913681?app=itunes",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/79/64/02/79640231-f694-d60a-68bd-643dc25578d3/artwork.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/blueneck/1560744269?i=1560744270&app=itunes"
+      },
+      {
+        "artistName": "Cardi B",
+        "id": "1552255281",
+        "releaseDate": "2021-02-05",
+        "name": "Up",
+        "collectionName": "Up - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Atlantic Recording Corporation",
+        "artistId": "956078923",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/us/artist/cardi-b/956078923?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/de/de/9a/dede9ad7-1e12-787f-4424-bde02f7391b8/075679791351.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/us/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/up/1552255107?i=1552255281&app=itunes"
+      },
+      {
+        "artistName": "The Cranberries",
+        "id": "1440735264",
+        "releaseDate": "1994-01-01",
+        "name": "Zombie",
+        "collectionName": "Stars: The Best of the Cranberries 1992-2002",
+        "kind": "song",
+        "copyright": "This Compilation ℗ 2002 The Island Def Jam Music Group",
+        "artistId": "122615",
+        "artistUrl": "https://music.apple.com/us/artist/the-cranberries/122615?app=itunes",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/a1/50/24/a1502457-0a4e-d05d-90af-82ed8afd76e8/00044006327723.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/zombie/1440735255?i=1440735264&app=itunes"
+      },
+      {
+        "artistName": "Dua Lipa",
+        "id": "1532788352",
+        "releaseDate": "2020-10-01",
+        "name": "Levitating (feat. DaBaby)",
+        "collectionName": "Levitating (feat. DaBaby) - Single",
+        "kind": "song",
+        "copyright": "℗ 2020  Dua Lipa Limited under exclusive license to Warner Records UK, a division of Warner Music UK Limited",
+        "artistId": "1031397873",
+        "artistUrl": "https://music.apple.com/us/artist/dua-lipa/1031397873?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/99/f8/43/99f84365-45f6-8249-44d2-f2c35770b4b9/190295132651.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/levitating-feat-dababy/1532788351?i=1532788352&app=itunes"
+      },
+      {
+        "artistName": "Demi Lovato",
+        "id": "1558230880",
+        "name": "Dancing With The Devil",
+        "collectionName": "Dancing With The Devil…The Art of Starting Over",
+        "kind": "song",
+        "copyright": "℗ 2021 Island Records, a division of UMG Recordings, Inc.",
+        "artistId": "280215821",
+        "artistUrl": "https://music.apple.com/us/artist/demi-lovato/280215821?app=itunes",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/c0/ad/bc/c0adbc8f-a69c-b87b-5fc2-942db1e7ac62/21UMGIM21428.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/dancing-with-the-devil/1558230630?i=1558230880&app=itunes"
+      },
+      {
+        "artistName": "Gabby Barrett",
+        "id": "1510409277",
+        "releaseDate": "2020-05-01",
+        "name": "The Good Ones",
+        "collectionName": "Goldmine",
+        "kind": "song",
+        "copyright": "℗ 2020 Warner Music Nashville LLC",
+        "artistId": "623856508",
+        "artistUrl": "https://music.apple.com/us/artist/gabby-barrett/623856508?app=itunes",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/7b/e4/81/7be48121-7867-1212-f162-30bd161280e2/093624893301.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/the-good-ones/1510409258?i=1510409277&app=itunes"
+      },
+      {
+        "artistName": "Elle King & Miranda Lambert",
+        "id": "1553937695",
+        "releaseDate": "2021-02-26",
+        "name": "Drunk (And I Don't Wanna Go Home)",
+        "collectionName": "Drunk (And I Don't Wanna Go Home) - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 RCA Records, a division of Sony Music Entertainment",
+        "artistId": "395811135",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=395811135-18732261&app=itunes",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/18/4f/b3/184fb3f4-a7fa-cce7-b0e5-9631afa9b70a/886449013609.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/drunk-and-i-dont-wanna-go-home/1553937690?i=1553937695&app=itunes"
+      },
+      {
+        "artistName": "Norman Greenbaum",
+        "id": "1462211356",
+        "releaseDate": "1969-01-01",
+        "name": "Spirit In the Sky",
+        "collectionName": "Spirit In the Sky",
+        "kind": "song",
+        "copyright": "℗ 1969 Craft Recordings, a division of Concord Music Group, Inc.",
+        "artistId": "15160573",
+        "artistUrl": "https://music.apple.com/us/artist/norman-greenbaum/15160573?app=itunes",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/7c/10/f9/7c10f998-07d5-c4b0-fab2-f859b6219fe5/14UMDIM02986.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/spirit-in-the-sky/1462211353?i=1462211356&app=itunes"
+      },
+      {
+        "artistName": "The Goo Goo Dolls",
+        "id": "267537169",
+        "releaseDate": "1998-03-31",
+        "name": "Iris",
+        "collectionName": "Greatest Hits, Volume One: The Singles",
+        "kind": "song",
+        "copyright": "℗ 2007 Warner Records Inc.",
+        "artistId": "147559",
+        "artistUrl": "https://music.apple.com/us/artist/the-goo-goo-dolls/147559?app=itunes",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music/b4/0c/98/mzi.vhowcacb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "1152",
+            "name": "Hard Rock",
+            "url": "https://itunes.apple.com/us/genre/id1152"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "1133",
+            "name": "Pop/Rock",
+            "url": "https://itunes.apple.com/us/genre/id1133"
+          },
+          {
+            "genreId": "1144",
+            "name": "Adult Alternative",
+            "url": "https://itunes.apple.com/us/genre/id1144"
+          },
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/iris/267536485?i=267537169&app=itunes"
+      },
+      {
+        "artistName": "Olivia Rodrigo",
+        "id": "1560735548",
+        "releaseDate": "2021-04-01",
+        "name": "deja vu",
+        "collectionName": "*O*R",
+        "kind": "song",
+        "copyright": "℗ 2021 Olivia Rodrigo, under exclusive license to Geffen Records",
+        "artistId": "979458609",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/us/artist/olivia-rodrigo/979458609?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/91/0e/58/910e58d7-5853-3ca5-1b18-c9244899d363/21UMGIM26092.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/deja-vu/1560735414?i=1560735548&app=itunes"
+      },
+      {
+        "artistName": "Olivia Rodrigo",
+        "id": "1545051686",
+        "releaseDate": "2021-01-08",
+        "name": "drivers license",
+        "collectionName": "drivers license - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Olivia Rodrigo, under exclusive license to Geffen Records",
+        "artistId": "979458609",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/us/artist/olivia-rodrigo/979458609?app=itunes",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/9d/56/72/9d56724b-501d-83e9-a53a-e0bf1ebb83a1/20UM1IM14285.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/drivers-license/1545051447?i=1545051686&app=itunes"
+      },
+      {
+        "artistName": "Priscilla Block",
+        "id": "1560728242",
+        "name": "Wish You Were The Whiskey",
+        "collectionName": "Priscilla Block - EP",
+        "kind": "song",
+        "copyright": "A Mercury Nashville/InDent Records Release; ℗ 2021 UMG Recordings, Inc./InDent Records",
+        "artistId": "1246536506",
+        "artistUrl": "https://music.apple.com/us/artist/priscilla-block/1246536506?app=itunes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/5d/43/995d4395-b62e-19bb-9d99-433136673c79/21UMGIM26707.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/wish-you-were-the-whiskey/1560728227?i=1560728242&app=itunes"
+      },
+      {
+        "artistName": "The Weeknd",
+        "id": "1499378607",
+        "releaseDate": "2019-11-29",
+        "name": "Blinding Lights",
+        "collectionName": "After Hours",
+        "kind": "song",
+        "copyright": "℗ 2020 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc.",
+        "artistId": "479756766",
+        "artistUrl": "https://music.apple.com/us/artist/the-weeknd/479756766?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/06/e5/8c/06e58ce4-a813-8d5b-ef64-03a69064773c/20UMGIM12176.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/us/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/blinding-lights/1499378108?i=1499378607&app=itunes"
+      },
+      {
+        "artistName": "Drowning Pool",
+        "id": "1440777727",
+        "releaseDate": "2001-05-14",
+        "name": "Bodies",
+        "collectionName": "Sinner",
+        "kind": "song",
+        "copyright": "℗ 2001 The Bicycle Music Company",
+        "artistId": "95701594",
+        "artistUrl": "https://music.apple.com/us/artist/drowning-pool/95701594?app=itunes",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music118/v4/e5/3f/91/e53f912c-a49c-b490-856c-469f5e410d0a/00601501406522.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1152",
+            "name": "Hard Rock",
+            "url": "https://itunes.apple.com/us/genre/id1152"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/bodies/1440777715?i=1440777727&app=itunes"
+      },
+      {
+        "artistName": "Luke Combs",
+        "id": "1527782455",
+        "releaseDate": "2020-10-23",
+        "name": "Forever After All",
+        "collectionName": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "kind": "song",
+        "copyright": "℗ 2020 River House Artists LLC, under exclusive license to Sony Music Entertainment. All rights reserved.",
+        "artistId": "815635315",
+        "artistUrl": "https://music.apple.com/us/artist/luke-combs/815635315?app=itunes",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/13/4a/11/134a11e7-35f1-a9e4-3f8c-a70443ca2e0a/886448691341.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/forever-after-all/1527782144?i=1527782455&app=itunes"
+      },
+      {
+        "artistName": "Lynyrd Skynyrd",
+        "id": "1440838314",
+        "releaseDate": "1973-08-13",
+        "name": "Simple Man",
+        "collectionName": "Pronounced Leh-Nerd Skin-Nerd",
+        "kind": "song",
+        "copyright": "℗ 2015 Geffen Records",
+        "artistId": "97262",
+        "artistUrl": "https://music.apple.com/us/artist/lynyrd-skynyrd/97262?app=itunes",
+        "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/b8/02/e2/b802e223-138d-10c2-9620-4ea6aafd520e/00602547618115.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/simple-man/1440838012?i=1440838314&app=itunes"
+      },
+      {
+        "artistName": "Nickelback",
+        "id": "214403648",
+        "releaseDate": "2005-09-26",
+        "name": "Rockstar",
+        "collectionName": "All the Right Reasons",
+        "kind": "song",
+        "copyright": "℗ 2005 The All Blacks B.V.",
+        "artistId": "5280361",
+        "artistUrl": "https://music.apple.com/us/artist/nickelback/5280361?app=itunes",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/f8/e0/db/f8e0db52-f6e5-5d85-6e0a-ae73e5caab11/mzi.qohxegpg.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "1133",
+            "name": "Pop/Rock",
+            "url": "https://itunes.apple.com/us/genre/id1133"
+          },
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/rockstar/214403406?i=214403648&app=itunes"
+      },
+      {
+        "artistName": "Fleetwood Mac",
+        "id": "202272422",
+        "releaseDate": "1982-06-18",
+        "name": "Gypsy",
+        "collectionName": "Greatest Hits",
+        "kind": "song",
+        "copyright": "℗ 1988 Warner Records Inc.",
+        "artistId": "158038",
+        "artistUrl": "https://music.apple.com/us/artist/fleetwood-mac/158038?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/9c/fa/4b/9cfa4b3d-13a5-1d0e-dc27-f19d643ae72b/mzi.izeorbmm.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "2",
+            "name": "Blues",
+            "url": "https://itunes.apple.com/us/genre/id2"
+          },
+          {
+            "genreId": "1011",
+            "name": "Country Blues",
+            "url": "https://itunes.apple.com/us/genre/id1011"
+          },
+          {
+            "genreId": "1147",
+            "name": "Blues-Rock",
+            "url": "https://itunes.apple.com/us/genre/id1147"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "1133",
+            "name": "Pop/Rock",
+            "url": "https://itunes.apple.com/us/genre/id1133"
+          },
+          {
+            "genreId": "1146",
+            "name": "Arena Rock",
+            "url": "https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId": "1131",
+            "name": "Adult Contemporary",
+            "url": "https://itunes.apple.com/us/genre/id1131"
+          },
+          {
+            "genreId": "1134",
+            "name": "Soft Rock",
+            "url": "https://itunes.apple.com/us/genre/id1134"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/gypsy/202271826?i=202272422&app=itunes"
+      },
+      {
+        "artistName": "The Weeknd",
+        "id": "1499378613",
+        "releaseDate": "2020-03-20",
+        "name": "Save Your Tears",
+        "collectionName": "After Hours",
+        "kind": "song",
+        "copyright": "℗ 2020 The Weeknd XO, Inc., marketed by Republic Records, a division of UMG Recordings, Inc.",
+        "artistId": "479756766",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/us/artist/the-weeknd/479756766?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/06/e5/8c/06e58ce4-a813-8d5b-ef64-03a69064773c/20UMGIM12176.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/us/genre/id15"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/save-your-tears/1499378108?i=1499378613&app=itunes"
+      },
+      {
+        "artistName": "The Kid LAROI",
+        "id": "1538647039",
+        "releaseDate": "2020-11-06",
+        "name": "WITHOUT YOU",
+        "collectionName": "F*CK LOVE (SAVAGE)",
+        "kind": "song",
+        "copyright": "℗ 2020 Columbia Records, a Division of Sony Music Entertainment",
+        "artistId": "1435848034",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/us/artist/the-kid-laroi/1435848034?app=itunes",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/79/cb/5f/79cb5f45-92d7-3d40-c6fb-a3a79d115641/886448880035.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "18",
+            "name": "Hip-Hop/Rap",
+            "url": "https://itunes.apple.com/us/genre/id18"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/without-you/1538646756?i=1538647039&app=itunes"
+      },
+      {
+        "artistName": "Heart",
+        "id": "725786574",
+        "releaseDate": "1987-05-16",
+        "name": "Alone",
+        "collectionName": "Greatest Hits 1985-1995",
+        "kind": "song",
+        "copyright": "This Compilation ℗ 2000 Capitol Records, LLC",
+        "artistId": "487883",
+        "artistUrl": "https://music.apple.com/us/artist/heart/487883?app=itunes",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/a3/9c/79/a39c7952-cbdd-9b3c-90b0-83a4233349c7/00724352680351.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1152",
+            "name": "Hard Rock",
+            "url": "https://itunes.apple.com/us/genre/id1152"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "1131",
+            "name": "Adult Contemporary",
+            "url": "https://itunes.apple.com/us/genre/id1131"
+          },
+          {
+            "genreId": "1146",
+            "name": "Arena Rock",
+            "url": "https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId": "1133",
+            "name": "Pop/Rock",
+            "url": "https://itunes.apple.com/us/genre/id1133"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/alone/725786124?i=725786574&app=itunes"
+      },
+      {
+        "artistName": "Nelly & Florida Georgia Line",
+        "id": "1535708548",
+        "releaseDate": "2020-10-23",
+        "name": "Lil Bit",
+        "collectionName": "Lil Bit - Single",
+        "kind": "song",
+        "copyright": "℗ 2020 Records Label, LLC / Columbia",
+        "artistId": "351794",
+        "contentAdvisoryRating": "Explicit",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=351794-399241518&app=itunes",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/3c/24/4a/3c244a3f-4c67-b974-0892-95948396bedc/886448665397.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/lil-bit/1535708547?i=1535708548&app=itunes"
+      },
+      {
+        "artistName": "Ava Max",
+        "id": "1538214603",
+        "releaseDate": "2020-09-18",
+        "name": "My Head & My Heart",
+        "collectionName": "Heaven & Hell",
+        "kind": "song",
+        "copyright": "Atlantic Records, ℗ 2020 Artist Partner Group, Inc.",
+        "artistId": "1265164818",
+        "artistUrl": "https://music.apple.com/us/artist/ava-max/1265164818?app=itunes",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/6f/d0/8b/6fd08b76-2c78-9df6-d073-4f6d12a64443/075679797032.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/my-head-my-heart/1538214602?i=1538214603&app=itunes"
+      },
+      {
+        "artistName": "Poison",
+        "id": "715750580",
+        "releaseDate": "1988-05-03",
+        "name": "Every Rose Has Its Thorn",
+        "collectionName": "The Best of Poison: 20 Years of Rock (Remastered)",
+        "kind": "song",
+        "copyright": "This Compilation ℗ 2006 Capitol Records Inc.",
+        "artistId": "490189",
+        "artistUrl": "https://music.apple.com/us/artist/poison/490189?app=itunes",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/74/f9/4e/74f94e28-e478-c959-c178-76d977e785fd/00094634951050.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1152",
+            "name": "Hard Rock",
+            "url": "https://itunes.apple.com/us/genre/id1152"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "1151",
+            "name": "Hair Metal",
+            "url": "https://itunes.apple.com/us/genre/id1151"
+          },
+          {
+            "genreId": "1153",
+            "name": "Metal",
+            "url": "https://itunes.apple.com/us/genre/id1153"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/every-rose-has-its-thorn/715750234?i=715750580&app=itunes"
+      },
+      {
+        "artistName": "Chris Stapleton",
+        "id": "1528423148",
+        "releaseDate": "2020-08-29",
+        "name": "Starting Over",
+        "collectionName": "Starting Over",
+        "kind": "song",
+        "copyright": "A Mercury Nashville Release; ℗ 2020 Sound Records, under exclusive license to UMG Recordings, Inc.",
+        "artistId": "1752134",
+        "artistUrl": "https://music.apple.com/us/artist/chris-stapleton/1752134?app=itunes",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/0e/e1/be/0ee1bebf-783b-787e-8f34-0d0df37b3f69/20UMGIM71875.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/starting-over/1528423147?i=1528423148&app=itunes"
+      },
+      {
+        "artistName": "Glass Animals",
+        "id": "1508562516",
+        "releaseDate": "2020-08-07",
+        "name": "Heat Waves",
+        "collectionName": "Dreamland",
+        "kind": "song",
+        "copyright": "℗ 2020 Wolf Tone Records, a division of Universal Music Operations Limited",
+        "artistId": "528928008",
+        "artistUrl": "https://music.apple.com/us/artist/glass-animals/528928008?app=itunes",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/1a/97/0b/1a970bce-6173-c136-1d0e-8ae92f5e5e84/20UMGIM03371.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "20",
+            "name": "Alternative",
+            "url": "https://itunes.apple.com/us/genre/id20"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/heat-waves/1508562310?i=1508562516&app=itunes"
+      },
+      {
+        "artistName": "Papa Roach",
+        "id": "1492001883",
+        "releaseDate": "2000-04-25",
+        "name": "Last Resort",
+        "collectionName": "Infest",
+        "kind": "song",
+        "copyright": "A Geffen Records Release; ℗ 2000 UMG Recordings, Inc.",
+        "artistId": "3445763",
+        "artistUrl": "https://music.apple.com/us/artist/papa-roach/3445763?app=itunes",
+        "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/7a/4e/b9/7a4eb93f-844c-9d37-9b71-7b64714355ae/19UM1IM12014.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1152",
+            "name": "Hard Rock",
+            "url": "https://itunes.apple.com/us/genre/id1152"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/last-resort/1492001879?i=1492001883&app=itunes"
+      },
+      {
+        "artistName": "Taylor Swift",
+        "id": "1552792302",
+        "name": "You All Over Me (Taylor’s Version) (From The Vault) [feat. Maren Morris]",
+        "collectionName": "Fearless (Taylor's Version)",
+        "kind": "song",
+        "copyright": "℗ 2021 Taylor Swift",
+        "artistId": "159260351",
+        "artistUrl": "https://music.apple.com/us/artist/taylor-swift/159260351?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/e0/d7/50/e0d750e8-b290-a8ff-88fe-8cbed749120c/21UMGIM09915.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/you-all-over-me-taylors-version-from-vault-feat-maren/1552791073?i=1552792302&app=itunes"
+      },
+      {
+        "artistName": "Fleetwood Mac",
+        "id": "202271847",
+        "releaseDate": "1975-07-11",
+        "name": "Rhiannon",
+        "collectionName": "Greatest Hits",
+        "kind": "song",
+        "copyright": "℗ 1988 Warner Records Inc.",
+        "artistId": "158038",
+        "artistUrl": "https://music.apple.com/us/artist/fleetwood-mac/158038?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/9c/fa/4b/9cfa4b3d-13a5-1d0e-dc27-f19d643ae72b/mzi.izeorbmm.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "2",
+            "name": "Blues",
+            "url": "https://itunes.apple.com/us/genre/id2"
+          },
+          {
+            "genreId": "1011",
+            "name": "Country Blues",
+            "url": "https://itunes.apple.com/us/genre/id1011"
+          },
+          {
+            "genreId": "1147",
+            "name": "Blues-Rock",
+            "url": "https://itunes.apple.com/us/genre/id1147"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "1133",
+            "name": "Pop/Rock",
+            "url": "https://itunes.apple.com/us/genre/id1133"
+          },
+          {
+            "genreId": "1146",
+            "name": "Arena Rock",
+            "url": "https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId": "1131",
+            "name": "Adult Contemporary",
+            "url": "https://itunes.apple.com/us/genre/id1131"
+          },
+          {
+            "genreId": "1134",
+            "name": "Soft Rock",
+            "url": "https://itunes.apple.com/us/genre/id1134"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/rhiannon/202271826?i=202271847&app=itunes"
+      },
+      {
+        "artistName": "Tiësto",
+        "id": "1532019310",
+        "releaseDate": "2020-09-25",
+        "name": "The Business",
+        "collectionName": "The Business - Single",
+        "kind": "song",
+        "copyright": "℗ 2020 Musical Freedom Label, LLC under exclusive license to Atlantic Recording Corporation for the world.",
+        "artistId": "4091218",
+        "artistUrl": "https://music.apple.com/us/artist/ti%C3%ABsto/4091218?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/ac/aa/67/acaa672b-e3ce-4ec8-8228-94fdb5b352eb/075679803429.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "17",
+            "name": "Dance",
+            "url": "https://itunes.apple.com/us/genre/id17"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/the-business/1532019308?i=1532019310&app=itunes"
+      },
+      {
+        "artistName": "Tate McRae",
+        "id": "1507810181",
+        "releaseDate": "2020-04-17",
+        "name": "you broke me first",
+        "collectionName": "you broke me first - Single",
+        "kind": "song",
+        "copyright": "℗ 2020 RCA Records, a division of Sony Music Entertainment",
+        "artistId": "835056838",
+        "artistUrl": "https://music.apple.com/us/artist/tate-mcrae/835056838?app=itunes",
+        "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/55/d4/1c/55d41cb3-5b76-ac10-8d6f-7a342295ab24/886448361923.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/you-broke-me-first/1507809903?i=1507810181&app=itunes"
+      },
+      {
+        "artistName": "Rod Stewart",
+        "id": "295535366",
+        "releaseDate": "1988-01-01",
+        "name": "Forever Young",
+        "collectionName": "The Definitive Rod Stewart",
+        "kind": "song",
+        "copyright": "℗ 2008 Warner Records Inc. Marketed by Warner Music Group.",
+        "artistId": "57471",
+        "artistUrl": "https://music.apple.com/us/artist/rod-stewart/57471?app=itunes",
+        "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/ea/89/8d/ea898dc7-79a3-f8c7-fdcd-8fed21bf9973/mzi.fyjtoqdz.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "15",
+            "name": "R&B/Soul",
+            "url": "https://itunes.apple.com/us/genre/id15"
+          },
+          {
+            "genreId": "1143",
+            "name": "Soul",
+            "url": "https://itunes.apple.com/us/genre/id1143"
+          },
+          {
+            "genreId": "2",
+            "name": "Blues",
+            "url": "https://itunes.apple.com/us/genre/id2"
+          },
+          {
+            "genreId": "1156",
+            "name": "Psychedelic",
+            "url": "https://itunes.apple.com/us/genre/id1156"
+          },
+          {
+            "genreId": "1160",
+            "name": "Singer/Songwriter",
+            "url": "https://itunes.apple.com/us/genre/id1160"
+          },
+          {
+            "genreId": "1152",
+            "name": "Hard Rock",
+            "url": "https://itunes.apple.com/us/genre/id1152"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "1131",
+            "name": "Adult Contemporary",
+            "url": "https://itunes.apple.com/us/genre/id1131"
+          },
+          {
+            "genreId": "1157",
+            "name": "Rock & Roll",
+            "url": "https://itunes.apple.com/us/genre/id1157"
+          },
+          {
+            "genreId": "1134",
+            "name": "Soft Rock",
+            "url": "https://itunes.apple.com/us/genre/id1134"
+          },
+          {
+            "genreId": "10",
+            "name": "Singer/Songwriter",
+            "url": "https://itunes.apple.com/us/genre/id10"
+          },
+          {
+            "genreId": "1065",
+            "name": "Folk-Rock",
+            "url": "https://itunes.apple.com/us/genre/id1065"
+          },
+          {
+            "genreId": "1133",
+            "name": "Pop/Rock",
+            "url": "https://itunes.apple.com/us/genre/id1133"
+          },
+          {
+            "genreId": "1146",
+            "name": "Arena Rock",
+            "url": "https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId": "1011",
+            "name": "Country Blues",
+            "url": "https://itunes.apple.com/us/genre/id1011"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/forever-young/295535258?i=295535366&app=itunes"
+      },
+      {
+        "artistName": "Def Leppard",
+        "id": "1440902940",
+        "releaseDate": "1983-01-20",
+        "name": "Photograph",
+        "collectionName": "Pyromania",
+        "kind": "song",
+        "copyright": "A Virgin EMI Records Release; ℗ 1983 Mercury Records Limited",
+        "artistId": "117554",
+        "artistUrl": "https://music.apple.com/us/artist/def-leppard/117554?app=itunes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/99/ef/71/99ef71ff-eaea-7bb7-c479-c079f14b0a5b/17UM1IM41551.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1152",
+            "name": "Hard Rock",
+            "url": "https://itunes.apple.com/us/genre/id1152"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/photograph/1440902935?i=1440902940&app=itunes"
+      },
+      {
+        "artistName": "Thomas Rhett",
+        "id": "1555624257",
+        "releaseDate": "2020-11-11",
+        "name": "What's Your Country Song",
+        "collectionName": "Country Again (Side A)",
+        "kind": "song",
+        "copyright": "℗ 2021 Big Machine Label Group, LLC",
+        "artistId": "502541718",
+        "artistUrl": "https://music.apple.com/us/artist/thomas-rhett/502541718?app=itunes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e6/46/c7/e646c7a7-9ebc-057a-c88c-eedd40b4cee0/21BMR0002286.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/whats-your-country-song/1555624166?i=1555624257&app=itunes"
+      },
+      {
+        "artistName": "John Mellencamp",
+        "id": "1440918946",
+        "releaseDate": "1982-01-01",
+        "name": "Jack and Diane",
+        "collectionName": "The Best That I Could Do - 1978-1988",
+        "kind": "song",
+        "copyright": "This Compilation ℗ 1997 John Mellencamp",
+        "artistId": "79969",
+        "artistUrl": "https://music.apple.com/us/artist/john-mellencamp/79969?app=itunes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/21/53/69/21536991-84a8-e323-a213-c5727f512aeb/06UMGIM66928.rgb.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "21",
+            "name": "Rock",
+            "url": "https://itunes.apple.com/us/genre/id21"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "1146",
+            "name": "Arena Rock",
+            "url": "https://itunes.apple.com/us/genre/id1146"
+          },
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "1133",
+            "name": "Pop/Rock",
+            "url": "https://itunes.apple.com/us/genre/id1133"
+          },
+          {
+            "genreId": "1159",
+            "name": "Roots Rock",
+            "url": "https://itunes.apple.com/us/genre/id1159"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/jack-and-diane/1440918606?i=1440918946&app=itunes"
+      },
+      {
+        "artistName": "Pet Shop Boys",
+        "id": "726390714",
+        "releaseDate": "1986-01-01",
+        "name": "Opportunities (Let's Make Lots of Money) [2001 Remaster]",
+        "collectionName": "Please",
+        "kind": "song",
+        "copyright": "℗ 2001 Parlophone Records Ltd, a Warner Music Group Company",
+        "artistId": "488020",
+        "artistUrl": "https://music.apple.com/us/artist/pet-shop-boys/488020?app=itunes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/10/27/7c/10277cb4-dadf-a74c-d1fb-27cf3abaaf34/5099969881152_1416x1416_300dpi.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "17",
+            "name": "Dance",
+            "url": "https://itunes.apple.com/us/genre/id17"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "7",
+            "name": "Electronic",
+            "url": "https://itunes.apple.com/us/genre/id7"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/opportunities-lets-make-lots-of-money-2001-remaster/726390543?i=726390714&app=itunes"
+      },
+      {
+        "artistName": "Dua Lipa",
+        "id": "1551179678",
+        "releaseDate": "2021-02-11",
+        "name": "We're Good",
+        "collectionName": "Future Nostalgia (The Moonlight Edition)",
+        "kind": "song",
+        "copyright": "A Warner Records UK Release, ℗ 2021 Dua Lipa Limited under exclusive licence to Warner Music UK Limited. Except tracks 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 18 ℗ 2020, tracks 1 & 2 ℗ 2019 Dua Lipa Limited under exclusive licence to Warner Music UK Limited, track 14  ℗ 2020 RCA Records, a division of Sony Music Entertainment, track 19 ℗ 2020 Sueños Globales, LLC, Exclusively Licensed to UMG Recordings Inc, ℗ Universal Music Latino/NEON16.",
+        "artistId": "1031397873",
+        "artistUrl": "https://music.apple.com/us/artist/dua-lipa/1031397873?app=itunes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/bd/f3/3c/bdf33cd5-a580-7af1-a204-e8520e65dfe8/190295042998.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "14",
+            "name": "Pop",
+            "url": "https://itunes.apple.com/us/genre/id14"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/were-good/1551178998?i=1551179678&app=itunes"
+      },
+      {
+        "artistName": "Dan + Shay & Justin Bieber",
+        "id": "1481229017",
+        "releaseDate": "2019-10-04",
+        "name": "10,000 Hours",
+        "collectionName": "10,000 Hours - Single",
+        "kind": "song",
+        "copyright": "℗ 2019 Warner Music Nashville LLC./Def Jam Recordings, a division of UMG Recordings, Inc.",
+        "artistId": "690319057",
+        "artistUrl": "https://music.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&ids=690319057-320569549&app=itunes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f0/76/bc/f076bc91-3bab-376c-f9b9-9bd674469726/054391940995.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "6",
+            "name": "Country",
+            "url": "https://itunes.apple.com/us/genre/id6"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/10-000-hours/1481229016?i=1481229017&app=itunes"
+      },
+      {
+        "artistName": "Lauren Daigle",
+        "id": "1544158671",
+        "releaseDate": "2021-02-26",
+        "name": "Hold On To Me",
+        "collectionName": "Hold On To Me - Single",
+        "kind": "song",
+        "copyright": "℗ 2021 Centricity Music 2021 Centricity Music",
+        "artistId": "722177758",
+        "artistUrl": "https://music.apple.com/us/artist/lauren-daigle/722177758?app=itunes",
+        "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0c/ae/aa/0caeaa85-7108-e8c8-1278-27c55027906e/829619223255.jpg/200x200bb.png",
+        "genres": [
+          {
+            "genreId": "1094",
+            "name": "CCM",
+            "url": "https://itunes.apple.com/us/genre/id1094"
+          },
+          {
+            "genreId": "34",
+            "name": "Music",
+            "url": "https://itunes.apple.com/us/genre/id34"
+          },
+          {
+            "genreId": "22",
+            "name": "Christian",
+            "url": "https://itunes.apple.com/us/genre/id22"
+          }
+        ],
+        "url": "https://music.apple.com/us/album/hold-on-to-me/1544158668?i=1544158671&app=itunes"
+      }
+    ]
+  }
+}
